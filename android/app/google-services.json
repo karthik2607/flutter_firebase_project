@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650245142647",
+    "project_id": "flutter-firebase-project-aa1a7",
+    "storage_bucket": "flutter-firebase-project-aa1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650245142647:android:0aa3af14c9acde0584ae72",
+        "android_client_info": {
+          "package_name": "karthik.learning_firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650245142647-opcfqkjmnvp18n1uhkqrgbbsbbee14f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "karthik.learning_firebaseapp",
+            "certificate_hash": "55567935d195f8c80f2f1a28fa0c6b51417fb5d6"
+          }
+        },
+        {
+          "client_id": "650245142647-stgq4tpneqcn3tefaic04jrmb48qs2tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDhGh2Mo3p0nFieOweeztxv0h7OhMhtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650245142647-stgq4tpneqcn3tefaic04jrmb48qs2tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
